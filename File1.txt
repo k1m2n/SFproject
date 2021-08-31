@@ -2,9 +2,11 @@ hii!!
 
 Hello World...
 
-check
+check.
 
- commit3
- changes
+ commit3.
+ changes.
 
- change to fix bug1
+ change to fix bug1.
+
+ change to fix bug2.
