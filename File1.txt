@@ -2,11 +2,13 @@ hii!!
 
 Hello World...=
 
-check
+check.
 
- commit3=
- changes-
 
- change= to fix bug1
+ commit3.
+ changes.
 
- change- by teammate to simulate conflict
+ change to fix bug1.
+
+ change to fix bug2.
+
