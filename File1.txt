@@ -5,12 +5,13 @@ Hello World...=5
 check.4
 
 
- commit3.2
- changes.1
 
- change to fix bug1.
+ commit3.
+ changes.=
 
- change to fix bug2.3
+ change to fix bug1.=
+ updated
 
- change 6
-
+ change to fix bug2.=
+ 
+ change to work on CR1.=
