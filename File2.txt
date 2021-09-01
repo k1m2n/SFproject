@@ -15,4 +15,9 @@ trying bug456 from local again
 conflict resolved
 
 
+
 this is for rebase illustration-master
+
+this is for rebase illustration-bug_trial
+since I modified the same file at master and bug_trial branch there was a conflict-resolved
+
