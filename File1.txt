@@ -29,3 +29,5 @@ check.4
 keeping both
 
 trying with bug1 on remote
+
+trying to change on remote while bug1 is getting fixed
