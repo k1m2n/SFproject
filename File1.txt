@@ -15,3 +15,5 @@ check.4
  change to fix bug2.=
  
  change to work on CR1.=
+
+ trying a normal push to remote without updating anything on remote so push should be successful
