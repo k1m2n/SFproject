@@ -27,3 +27,5 @@ check.4
  trying to make a change at local so that remote origin/master is behind local master 
 
 keeping both
+
+trying with bug1 on remote
