@@ -1,4 +1,8 @@
 add multiple files
 
 
+
 trying to update at remote bug123
+
+trying bug123 on local
+conflict resolved
