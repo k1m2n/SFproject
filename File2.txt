@@ -13,3 +13,6 @@ trying bug456 from remote
 
 trying bug456 from local again
 conflict resolved
+
+
+this is for rebase illustration-master
