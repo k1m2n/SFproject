@@ -19,5 +19,11 @@ check.4
  trying a normal push to remote without updating anything on remote so push should be successful
  
  trying a normal pull to local without any changes done at local so the pull should be successful
+
  
  trying a change at remote so that remote is ahead of local too
+
+
+ trying to make a change at local so that remote origin/master is behind local master 
+
+keeping both
